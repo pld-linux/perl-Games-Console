@@ -6,7 +6,7 @@
 %define		pdir	Games
 %define		pnam	Console
 Summary:	Games::Console - a 2D quake style in-game console
-Summary(pl.UTF-8):   Games::Console - dwuwymiarowa konsola dla gier podobna do tej z quake'a
+Summary(pl.UTF-8):	Games::Console - dwuwymiarowa konsola dla gier podobna do tej z quake'a
 Name:		perl-Games-Console
 Version:	0.04
 Release:	0.1
