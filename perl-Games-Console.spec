@@ -6,7 +6,7 @@
 %define		pdir	Games
 %define		pnam	Console
 Summary:	Games::Console - a 2D quake style in-game console
-Summary(pl):	Games::Console - dwuwymiarowa konsola dla gier podobna do tej z quake'a
+Summary(pl.UTF-8):   Games::Console - dwuwymiarowa konsola dla gier podobna do tej z quake'a
 Name:		perl-Games-Console
 Version:	0.04
 Release:	0.1
@@ -28,9 +28,9 @@ This package provides you with 2D console, which can accept user input
 and display messages from the application. The console works very much
 like in the popular ID games.
 
-%description -l pl
-Ten pakiet udostêpnia dwuwymiarow± konsolê przyjmuj±c± wej¶cie od
-u¿ytkownika i wy¶wietlaj±c± komunikaty aplikacji. Konsola dzia³a
+%description -l pl.UTF-8
+Ten pakiet udostÄ™pnia dwuwymiarowÄ… konsolÄ™ przyjmujÄ…cÄ… wejÅ›cie od
+uÅ¼ytkownika i wyÅ›wietlajÄ…cÄ… komunikaty aplikacji. Konsola dziaÅ‚a
 bardzo podobnie do tej z popularnych gier ID.
 
 %prep
