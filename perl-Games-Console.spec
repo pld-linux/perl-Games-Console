@@ -43,6 +43,7 @@ bardzo podobnie do tej z popularnych gier ID.
 %{__make}
 # if module isn't noarch, use:
 # %{__make} \
+	CC="%{__cc}" \
 #	OPTIMIZE="%{rpmcflags}"
 
 %{?with_tests:%{__make} test}
