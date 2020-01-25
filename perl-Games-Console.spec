@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Games
 %define		pnam	Console
 Summary:	Games::Console - a 2D quake style in-game console
